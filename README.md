@@ -1,4 +1,4 @@
-# Compressible-aerodynamics
+# Slip line and Slip line angle
 
 When you run the MATLAB code, it will show you the results of the owner of this assignment. If you want to get results with any input, turn 
 the ‘initial data’ part to comment and uncomment ‘any data’ part. It will ask you for three inputs and these are Mach number, 𝜃1 and 𝜃2 respectively. 
